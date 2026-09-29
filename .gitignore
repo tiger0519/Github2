@@ -1,0 +1,4 @@
+ *.log
+   temp/
+   secret.txt
+API key.txt.txt
